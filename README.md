@@ -51,7 +51,7 @@
 ### Quick Install
 
 ```bash
-git clone https://github.com/yourusername/dotfiles.git
+git clone https://github.com/KiyoTopKop/dotfiles.git
 cd dotfiles
 chmod +x install.sh
 ./install.sh
