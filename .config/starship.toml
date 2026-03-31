@@ -1,0 +1,43 @@
+format = """
+[╭─](bold #9ab1b8)\
+$os\
+$directory\
+$git_branch\
+$git_status\
+$cmd_duration\
+$line_break\
+[╰─](bold #9ab1b8)\
+$character"""
+
+[os]
+disabled = false
+style = "bold #f09785"
+
+[directory]
+style = "bold #c9d7fa"
+truncation_length = 3
+format = "[ $path ]($style)"
+
+[git_branch]
+symbol = " "
+style = "bold #ecb69b"
+format = "[$symbol$branch]($style) "
+
+[git_status]
+style = "bold #f09785"
+
+[character]
+success_symbol = "[❯](bold #bedfed)"
+error_symbol = "[❯](bold #f09785)"
+
+[cmd_duration]
+min_time = 500
+format = "[ $duration](bold #9ab1b8)"
+
+[python]
+symbol = " "
+style = "bold #ecb69b"
+
+[nodejs]
+symbol = " "
+style = "bold #bedfed"

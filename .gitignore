@@ -1,0 +1,24 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Broken glob/temp directories (artifact from shell glob expansion)
+{.config/
+{cava,conky,fastfetch}/
+
+# Secrets & credentials (safety net)
+*.env
+*.secret
+*credentials*
+*token*
+*.pem
+*.key
+*.pfx
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

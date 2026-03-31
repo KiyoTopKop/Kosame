@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=KDE Material You Colors
+Exec=bash -c 'sleep 3 && kde-material-you-colors --dark --konsole-blur --konsole-opacity 85 --titlebar-opacity 90'
+Hidden=false
+X-GNOME-Autostart-enabled=true

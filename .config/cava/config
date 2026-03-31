@@ -1,0 +1,15 @@
+[general]
+bars = 50
+
+[color]
+gradient = 1
+gradient_count = 6
+gradient_color_1 = '#0a0f10'
+gradient_color_2 = '#9ab1b8'
+gradient_color_3 = '#f09785'
+gradient_color_4 = '#bedfed'
+gradient_color_5 = '#c9d7fa'
+gradient_color_6 = '#e0f3f4'
+
+[smoothing]
+noise_reduction = 77

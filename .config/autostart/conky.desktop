@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Conky
+Exec=bash -c 'sleep 5 && LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8 conky -c /home/$USER/.config/conky/conky.conf'
+Hidden=false
+X-GNOME-Autostart-enabled=true
