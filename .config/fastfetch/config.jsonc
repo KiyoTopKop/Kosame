@@ -3,15 +3,11 @@
     "logo": {
         "source": "~/.config/fastfetch/arts/1.txt",
         "type": "file",
-        "padding": {
-            "top": 1,
-            "left": 1,
-            "right": 4
-        }
+        "padding": { "top": 1, "left": 1, "right": 4 }
     },
     "display": {
         "separator": "  ",
-        "color": "yellow"
+        "color": "cyan"
     },
     "modules": [
         "title", "separator", "os", "kernel",
