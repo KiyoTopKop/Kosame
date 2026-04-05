@@ -299,15 +299,6 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 📜 License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
-
----
-
-<div align="center">
-
-made with 🌧️ on parrot os by **seto**
 
 ⭐ Star this repo if it helped you!
 
