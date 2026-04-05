@@ -1,10 +1,3 @@
-<div align="center">
-
-<video src="https://youtu.be/t4mccsESksI" width="100%" autoplay loop muted playsinline controls></video>
-
-<br/>
-<br/>
-
 # 🌧️ kosame
 
 **Parrot OS · KDE Plasma 6 · Lofi Rice**
