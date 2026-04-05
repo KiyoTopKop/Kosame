@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="https://github.com/KiyoTopKop/dotfiles/raw/main/2026-04-01%2008-27-03.mp4" width="100%" autoplay loop muted playsinline controls></video>
+<video src="https://youtu.be/t4mccsESksI" width="100%" autoplay loop muted playsinline controls></video>
 
 <br/>
 <br/>
