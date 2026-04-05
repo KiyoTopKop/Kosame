@@ -46,7 +46,7 @@
 
 ## 🎬 Demo
 
-https://github.com/KiyoTopKop/dotfiles/raw/main/2026-04-01%2008-27-03.mp4
+https://youtu.be/t4mccsESksI
 
 > *Full desktop showcase — lofi ambiance, system tools, and terminal workflow*
 
